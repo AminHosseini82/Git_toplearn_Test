@@ -4,14 +4,7 @@ for i in range(10):
     print(i)
 
 """
-dfsdfsfsdfsdfsdfsfsd
-dfsdfsfsdfsdfsdfsfsd
-dfsdfsfsdfsdfsdfsfsd
-dfsdfsfsdfsdfsdfsfsd
-dfsdfsfsdfsdfsdfsfsd
-dfsdfsfsdfsdfsdfsfsd
-dfsdfsfsdfsdfsdfsfsd
-dfsdfsfsdfsdfsdfsfsd
+dfsdfsfsdfsdfsdfsfsdsasasasdasdadasdasdasdasdasdsfsdfsdfsdfsfsd
 dfsdfsfsdfsdfsdfsfsd
 dfsdfsfsdfsdfsdfsfsd
 dfsdfsfsdfsdfsdfsfsd
